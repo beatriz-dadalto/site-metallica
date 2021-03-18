@@ -18,7 +18,7 @@
 
 ### [](https://github.com/biacoelho/quiz-react-nextjs-imersao-alura#--sobre-o-projeto) 🔥 Sobre o projeto
 
-Durante a semana <a href="https://www.instagram.com/nasser.yousefali/" target="_blank"><strong>#frontWeek</strong></a> realizada em 02/2021 foi desenvolvido um site com o proposito de aprimorar habilidades voltadas ao **Front-end**. A UI foi feita com o **Figma** e depois partimos para o codificação. O tema original foi o Spider Man mas eu decidi fazer com tema da banda Metallica.
+Durante a semana <a href="https://www.instagram.com/nasser.yousefali/" target="_blank"><strong>#frontWeek</strong></a> realizada em 02/2021 foi desenvolvido um site com o proposito de aprimorar habilidades voltadas ao **Front-end**. A UI foi feita com o **Figma** e depois partimos para o codificação. O tema original foi o <a href="https://www.nyousefali.com.br/spiderman/" target="_blank" title="projeto original">Spider Man</a> mas eu decidi fazer com tema da banda Metallica.
 
 <br />
 
