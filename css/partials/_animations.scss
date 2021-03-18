@@ -1,0 +1,23 @@
+.logo-intro {
+  fill: transparent;
+
+  animation: logo-intro 12s ease infinite alternate;
+}
+
+@keyframes logo-intro {
+  0% {
+    stroke-width: 0;
+    stroke-dasharray: 1 100;
+    fill: transparent;
+  }
+  25% {
+    stroke-width: 1;
+    fill: transparent;
+    stroke-dasharray: 100 0;
+  }
+  60%,
+  100% {
+    stroke-width: 6;
+    fill: $blue;
+  }
+}
